@@ -3,7 +3,7 @@ import Testimonals from "@/components/testimonals";
 export default function Intro() {
   return (
     <>
-      <div className="w-full  flex justify-between bg-[#4a5a58] pt-10 text-[#efebe2]">
+      <div className="w-full flex justify-between bg-[#4a5a58] pt-10 text-[#efebe2]">
         <div className="px-10 pt-10 py-10">
           <h2 className="text-5xl">
             Are you ready to go inward, and discover the potential that awaits

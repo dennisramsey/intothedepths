@@ -5,7 +5,7 @@ import Intro from "@/components/home";
 export default function Home() {
   return (
     <main className="flex flex-col items-center justify-between ">
-      <Header />
+      <Header section="home" />
       <Intro />
     </main>
   );
